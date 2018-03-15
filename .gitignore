@@ -1,0 +1,7 @@
+node_modules
+
+# JetBrains
+.idea
+
+access.log
+error.log
